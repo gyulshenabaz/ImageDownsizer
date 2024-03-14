@@ -10,3 +10,6 @@ Bilinear interpolation is a method of interpolating the values of a function at 
 When downscaling an image using bilinear interpolation, each pixel in the output image is computed by averaging the values of the four nearest pixels in the original image. This interpolation technique results in smoother transitions and better image quality compared to simple averaging.
 
 <img src="https://i.stack.imgur.com/t7z2N.png" width="70%"><br>
+
+## Results
+Please check the Results folder
