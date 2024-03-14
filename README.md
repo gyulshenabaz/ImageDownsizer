@@ -13,3 +13,9 @@ When downscaling an image using bilinear interpolation, each pixel in the output
 
 ## Results
 Please check the Results folder
+
+## Used resources
+- https://www.sciencedirect.com/topics/engineering/bilinear-interpolation
+- https://rosettacode.org/wiki/Bilinear_interpolation
+- https://www.youtube.com/watch?v=AqscP7rc8_M
+- https://www.youtube.com/watch?v=mxTUZW4CR_w
